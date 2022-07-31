@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "M_useid": "testId",
+    "M_pwdck": "test1234",
+    "M_name": "테스트의 이름",
+    "M_regnum1": "주민번호 앞 123456",
+    "M_regnum2": "주민번호 뒤 123456",
+    "M_tel": "01012345567",
+    "M_email": "userEmail@gmail.com",
+    "M_is_out": "N",
+    "M_addr": "인천 광역시 부평구",
+    "M_postCode": "123456",
+    "M_reg_date": "2022-07-15",
+    "M_edit_date": "2022-07-15"
+  }
+]

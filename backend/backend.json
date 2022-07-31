@@ -1,0 +1,427 @@
+{
+  "bbs_notices": [
+    {
+      "N_id": 1,
+      "N_division": "1",
+      "N_title": "코로나19 예방을 위한 롯데월드 어드벤처 부산 종합안내",
+      "N_content": "안녕하십니까? 롯데월드 어드벤처 부산입니다.\n 롯데월드 어드벤처 부산은 코로나바이러스감염증19(COVID-19)로부터 안전한 테마파크를 만들기 위해 바이러스 확산 방지를 위한 최선의 노력을 다하고 있습니다.\n\n롯데월드 어드벤처 부산은 코로나19 감염 예방 대책 수립시 아래의 사항을 최우선의 가치로 두고 있습니다.\n\n\nㆍ손님과 캐스트를 포함한 파크와 관련된 모든 사람의 건강 및 안전\nㆍ질병관리본부의 거리두기 지침에 부합하는 운영방침 수립 및 이행\n\n손님여러분께서 안심하고 즐기실 수 있도록 롯데월드 어드벤처 부산은 앞으로도 방역 및 예방활동에 최선을 다하겠습니다. 추후에도 코로나19 바이러스 발생 동향에 따라 정부의 지침을 준수하며, 건강과 안전을 위한 대책을 철저히 수립/이행하겠습니다.",
+      "N_reg_date": "2022-11-20"
+    },
+    {
+      "N_id": 2,
+      "N_division": "2",
+      "N_title": "어트랙션 안전 점검 일정",
+      "N_content": "손님 여러분의 안전을 위하여 주기적인 어트랙션 안전 점검을 시행하고 있습니다.\n해당 어트랙션은 10시~12시까지 점검 후 12시부터 운행될 예정입니다.\n점검 상황에 따라 운행 시간이 지연될 수 있습니다.",
+      "N_reg_date": "2022-11-20"
+    },
+    {
+      "N_id": 3,
+      "N_division": "1",
+      "N_title": "영상정보처리기기 운영/관리방침",
+      "N_content": "안녕하세요. 모험과 신비의 나라 롯데월드 어드벤처 부산 입니다.\n롯데월드 어드벤처 부산 영상정보처리 기기운영/관리방침이 개정되어 변경 내용을 공지합니다.",
+      "N_reg_date": "2022-11-20"
+    },
+    {
+      "N_id": 4,
+      "N_division": "1",
+      "N_title": "신종 코로나바이러스감염증 예방 수칙",
+      "N_content": "중국여행시 주의",
+      "N_reg_date": "2022-11-20"
+    }
+  ],
+  "bbs_faq": [
+    {
+      "F_id": 1,
+      "F_division": "y",
+      "F_title": "롯데월드 어드벤처 부산에는 어떤 티켓이 있으며, 티켓의 사용범위는 어디까지인가요?",
+      "F_content": " 롯데월드 어드벤처 부산은 종합이용권을 통해 파크 입장 및 자유로운 어트 이용 가능합니다. 단, 게임, 물품보관소 등의 유료시설의 이용은 별도의 비용을 지불하셔야 합니다.."
+    },
+    {
+      "F_id": 2,
+      "F_division": "u",
+      "F_title": "부모님 제휴카드로 자녀가 할인을 받을 수 있나요?",
+      "F_content": "카드는 본인 사용을 원칙으로 하지만 부모님의 카드를 양도받으시는 경우 부모님의 신분증(또는 사본)을 지참하신다면 제휴 할인 가능합니다."
+    },
+    {
+      "F_id": 3,
+      "F_division": "o",
+      "F_title": "예매 후 티켓은 어디서 받는건가요?",
+      "F_content": "모바일/온라인 예매를 하셨다면 앱 안에 티켓이 생성되며, 별도의 지류 티켓 발권 없이 바로 앱 화면을 통해 게이트로 입장하실 수 있습니다."
+    },
+    {
+      "F_id": 4,
+      "F_division": "a",
+      "F_title": "롯데월드 어드벤처 부산과의 기업 제휴 및 이벤트 제휴를 하고 싶은데요",
+      "F_content": "롯데월드 어드벤처 부산과 제휴 및 이벤트를 원하시는 경우, 홈페이지 하단 '기업 제휴 및 입점문의'를 통해 내용을 남겨주시면 담당자 확인 후 연락드릴 수 있도록 하겠습니다."
+    },
+    {
+      "F_id": 5,
+      "F_division": "y",
+      "F_title": "연간이용 가입 시 필요한 서류는 어떻게 되나요?",
+      "F_content": "본인을 확인할 수 있는 신분증(주민등록증, 운전면허증 등)을 가지고 연간이용센터를 방문하셔서 가입신청서를 작성하시면 가입이 가능하십니다. 만13세미만 어린이 와 만36개월 미만 베이비 손님은 생년월일을 확인할 수 있는 증빙서류(가족관계증명서, 주민등록등본 등)를 지참하여 방문해주시길 바랍니다."
+    }
+  ],
+  "bbs_lost": [
+    {
+      "L_id": "일련번호1",
+      "L_division": "지갑",
+      "L_item": "화이트 지갑",
+      "L_loc": "로스트 밸리 앞",
+      "L_reg_date": "2022.07.24",
+      "L_state": "보관중"
+    },
+    {
+      "L_id": "일련번호",
+      "L_division": "기타3",
+      "L_item": "사진상점 4인 가족사진",
+      "L_loc": "유모차 대여소",
+      "L_reg_date": "2022.07.21",
+      "L_state": "A"
+    },
+    {
+      "L_division": "기타2",
+      "L_item": "검정색 스마트 워치",
+      "L_loc": "회전목마 근처",
+      "L_reg_date": "2022.07.16",
+      "L_state": "B"
+    },
+    {
+      "L_division": "기타1",
+      "L_item": "검정색 리본 핀",
+      "L_loc": "로리스엠포리움",
+      "L_reg_date": "2022.07.11",
+      "L_state": "B"
+    },
+    {
+      "L_division": "안경",
+      "L_item": "검정 금테 안경",
+      "L_loc": "자이언트 스플래쉬 대기라인",
+      "L_reg_date": "2022.07.04",
+      "L_state": "A"
+    },
+    {
+      "L_division": "카드",
+      "L_item": "카카오뱅크카드 - 하*영님",
+      "L_loc": "캔디트레인 앞",
+      "L_reg_date": "2022.06.29",
+      "L_state": "B"
+    },
+    {
+      "L_division": "안경",
+      "L_item": "H&M 검정 선글라스(테는 금색)",
+      "L_loc": "푸드드롭 레스토랑 옆 퍼레이드 동선",
+      "L_reg_date": "2022.06.17",
+      "L_state": "A"
+    },
+    {
+      "L_division": "기타",
+      "L_item": "흰색 미니선퐁기",
+      "L_loc": "잼스톤 스토어 출입구",
+      "L_reg_date": "2022.06.13",
+      "L_state": "B"
+    },
+    {
+      "L_division": "카드",
+      "L_item": "카카오뱅크 이*경 님",
+      "L_loc": "달려라 염소",
+      "L_reg_date": "2022.06.13",
+      "L_state": "A"
+    },
+    {
+      "L_division": "핸드폰",
+      "L_item": "흰색 아이폰(투명케이스)",
+      "L_loc": "캔디트레인",
+      "L_reg_date": "2022.06.02",
+      "L_state": "A"
+    },
+    {
+      "L_division": "의류",
+      "L_item": "베이지색 밀짚모자",
+      "L_loc": "오거스 후룸",
+      "L_reg_date": "2022.05.28",
+      "L_state": "B"
+    },
+    {
+      "L_division": "안경",
+      "L_item": "검정 금테 안경",
+      "L_loc": "자이언트 스플래쉬 대기라인",
+      "L_reg_date": "2022.05.17",
+      "L_state": "A"
+    }
+  ],
+  "enjoyInfoList": [
+    {
+      "EN_id": 1,
+      "title": "토킹트리",
+      "hashtag": "#패밀리",
+      "sub_txt": "로리왕국의 수호자인 토킹트리로부터 신비로운 매직포레스트의 옛 이야기를 들어보아요.",
+      "limit": false,
+      "info": "",
+      "tip": "",
+      "loc": "팅거폴스",
+      "img": "/public_img/enjoy/202202250148171640_420.jpg",
+      "visual": "/public_img/enjoy/202202250148119610_1519.jpg"
+    },
+    {
+      "EN_id": 2,
+      "title": "쿠키열차",
+      "hashtag": "#롤러코스터",
+      "sub_txt": "우리에게 용기를 주는 신비한 쿠키를 찾으러 열차를 타고 쿠키공장으로 떠나요!",
+      "limit": true,
+      "info": "135cm 이상 탑승 가능",
+      "tip": "어린이전용 어트랙션으로 36개월 미만 무료입장 유아 손님은 베이비이용권을 구입하셔야 이용할 수 있습니다.",
+      "loc": "조이풀메도우",
+      "img": "/public_img/enjoy/202203240224470610.jpg",
+      "visual": "/public_img/enjoy/202203240224419361_1519.jpg"
+    },
+    {
+      "EN_id": 3,
+      "title": "날아라꼬꼬",
+      "hashtag": "#패밀리",
+      "sub_txt": "여우의 방해를 피해 점프!점프! 꼬꼬들을 타고 날아 보아요!",
+      "limit": true,
+      "info": "105cm 이상 ~ 140cm 미만 탑승 가능",
+      "tip": "남녀노소 즐길 수 있는 롤러코스터!",
+      "loc": "조이풀메도우",
+      "img": "/public_img/enjoy/202202250150303520.jpg",
+      "visual": "/public_img/enjoy/202202250150248520_1519.jpg"
+    },
+    {
+      "EN_id": 4,
+      "title": "자이언트스윙",
+      "hashtag": "#스릴",
+      "sub_txt": "광산의 보석들을 가공하려면 이 무섭고 거대한 기계를 움직여야 한다구요!",
+      "limit": true,
+      "info": "105cm 이상 ~ 140cm 미만 탑승 가능",
+      "tip": "탑승 전 스트레칭 필수!",
+      "loc": "언더랜드",
+      "img": "/public_img/enjoy/202203240223051550.jpg",
+      "visual": "/public_img/enjoy/202203240223018271_1519.jpg"
+    },
+    {
+      "EN_id": 5,
+      "title": "회전그네",
+      "hashtag": "#빙글빙글",
+      "sub_txt": "흥겨운 노래와 마르지 않는 샘물! 그네를 타고 시원한 바람과 함께 즐겨요!",
+      "limit": true,
+      "info": "105cm 이상 탑승 가능",
+      "tip": "탑승 후 어지러울 수 있어요",
+      "loc": "레인보우스프링스",
+      "img": "/public_img/enjoy/202203240226587330.jpg",
+      "visual": "/public_img/enjoy/202203240226563112_1519.jpg"
+    },
+    {
+      "EN_id": 6,
+      "title": "자이언트디거",
+      "hashtag": "#고속",
+      "sub_txt": "언더랜드 오거들의 자랑 광산열차! 놀라운 스피드와 엄청난 스릴!",
+      "limit": true,
+      "info": "130cm 이상 탑승 가능",
+      "tip": "탑승 전 스트레칭 필수!",
+      "loc": "언더랜드",
+      "img": "/public_img/enjoy/202203240218146530.jpg",
+      "visual": "/public_img/enjoy/202203240218126072_1519.jpg"
+    }
+  ],
+  "members": [
+    {
+      "id": "1",
+      "M_useid": "testId",
+      "M_pwdck": "test1234",
+      "M_name": "테스트의 이름",
+      "M_regnum1": "주민번호 앞 123456",
+      "M_regnum2": "주민번호 뒤 123456",
+      "M_tel": "01012345567",
+      "M_email": "userEmail@gmail.com",
+      "M_is_out": "N",
+      "M_addr": "인천 광역시 부평구",
+      "M_postCode": "123456",
+      "M_reg_date": "2022-07-15",
+      "M_edit_date": "2022-07-15"
+    }
+  ],
+  "bbs_inquire": [
+    {
+      "I_name": "유다현",
+      "I_division": "2",
+      "I_mail": "ekgus1129@gmail.com",
+      "I_title": "제목입니다",
+      "I_content": "내용입니다",
+      "I_file": "C:\\fakepath\\사용자.png",
+      "id": 3
+    },
+    {
+      "I_name": "유다현",
+      "I_division": "2",
+      "I_mail": "ekgus1129@gmail.com",
+      "I_title": "제목입니다",
+      "I_content": "내용입니다",
+      "I_file": "C:\\fakepath\\사용자.png",
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    }
+  ],
+  "res_info": [
+    {
+      "pg": "html5_inicis",
+      "pay_method": "카카오페이 ",
+      "merchant_uid": "mid_1658156581727",
+      "amount": "60000",
+      "name": "롯데월드 자유 이용권 결제",
+      "paymentDate": "2022-07-23",
+      "buyer_name": "테스트의 이름",
+      "buyer_tel": "01012345567",
+      "buyer_email": "userEmail@gmail.com",
+      "visit_name": "테스트의 이름",
+      "visit_tel": "01012345567",
+      "visit_mail": "userEmail@gmail.com",
+      "buyer_addr": "신사동 661-16",
+      "buyer_postcode": "06018",
+      "priceA": 30000,
+      "priceY": 20000,
+      "priceC": 10000,
+      "numberA": 1,
+      "numberY": 1,
+      "numberC": 1,
+      "paymentDay": "2022-07-19",
+      "paymentMonth": "2022-07",
+      "paymentHour": "00:03:01",
+      "id": 28
+    },
+    {
+      "pg": "html5_inicis",
+      "pay_method": "카카오페이 ",
+      "merchant_uid": "mid_1658207543346",
+      "amount": "40000",
+      "name": "롯데월드 자유 이용권 결제",
+      "paymentDate": "2022-07-23",
+      "buyer_name": "테스트의 이름",
+      "buyer_tel": "01012345567",
+      "buyer_email": "userEmail@gmail.com",
+      "visit_name": "",
+      "visit_tel": "",
+      "visit_mail": "",
+      "buyer_addr": "신사동 661-16",
+      "buyer_postcode": "06018",
+      "priceA": 30000,
+      "priceY": 20000,
+      "priceC": 10000,
+      "numberA": 1,
+      "numberY": 0,
+      "numberC": 1,
+      "paymentDay": "2022-07-19",
+      "paymentMonth": "2022-07",
+      "paymentHour": "14:12:23",
+      "id": 29
+    },
+    {
+      "pg": "html5_inicis",
+      "pay_method": "카카오페이 ",
+      "merchant_uid": "mid_1658207956622",
+      "amount": "40000",
+      "name": "롯데월드 자유 이용권 결제",
+      "paymentDate": "2022-07-23",
+      "buyer_name": "테스트의 이름",
+      "buyer_tel": "01012345567",
+      "buyer_email": "userEmail@gmail.com",
+      "visit_name": "",
+      "visit_tel": "",
+      "visit_mail": "",
+      "buyer_addr": "신사동 661-16",
+      "buyer_postcode": "06018",
+      "priceA": 30000,
+      "priceY": 20000,
+      "priceC": 10000,
+      "numberA": 1,
+      "numberY": 0,
+      "numberC": 1,
+      "paymentDay": "2022-07-19",
+      "paymentMonth": "2022-07",
+      "paymentHour": "14:19:16",
+      "id": 30
+    },
+    {
+      "pg": "html5_inicis",
+      "pay_method": "카카오페이 ",
+      "merchant_uid": "mid_1658207962051",
+      "amount": "40000",
+      "name": "롯데월드 자유 이용권 결제",
+      "paymentDate": "2022-07-23",
+      "buyer_name": "테스트의 이름",
+      "buyer_tel": "01012345567",
+      "buyer_email": "userEmail@gmail.com",
+      "visit_name": "",
+      "visit_tel": "",
+      "visit_mail": "",
+      "buyer_addr": "신사동 661-16",
+      "buyer_postcode": "06018",
+      "priceA": 30000,
+      "priceY": 20000,
+      "priceC": 10000,
+      "numberA": 1,
+      "numberY": 0,
+      "numberC": 1,
+      "paymentDay": "2022-07-19",
+      "paymentMonth": "2022-07",
+      "paymentHour": "14:19:22",
+      "id": 31
+    },
+    {
+      "pg": "html5_inicis",
+      "pay_method": "카카오페이 ",
+      "merchant_uid": "mid_1658579303410",
+      "amount": "90000",
+      "name": "롯데월드 자유 이용권 결제",
+      "paymentDate": "2022-07-23",
+      "buyer_name": "테스트의 이름",
+      "buyer_tel": "01012345567",
+      "buyer_email": "userEmail@gmail.com",
+      "visit_name": "테스트의 이름",
+      "visit_tel": "01012345567",
+      "visit_mail": "userEmail@gmail.com",
+      "buyer_addr": "신사동 661-16",
+      "buyer_postcode": "06018",
+      "priceA": 30000,
+      "priceY": 20000,
+      "priceC": 10000,
+      "numberA": 2,
+      "numberY": 1,
+      "numberC": 1,
+      "paymentDay": "2022-07-23",
+      "paymentMonth": "2022-07",
+      "paymentHour": "21:28:23",
+      "id": 32
+    },
+    {
+      "pg": "html5_inicis",
+      "pay_method": "카카오페이 ",
+      "merchant_uid": "mid_1658579416092",
+      "amount": "90000",
+      "name": "롯데월드 자유 이용권 결제",
+      "paymentDate": "2022-07-23",
+      "buyer_name": "테스트의 이름",
+      "buyer_tel": "01012345567",
+      "buyer_email": "userEmail@gmail.com",
+      "visit_name": "테스트의 이름",
+      "visit_tel": "01012345567",
+      "visit_mail": "userEmail@gmail.com",
+      "buyer_addr": "신사동 661-16",
+      "buyer_postcode": "06018",
+      "priceA": 30000,
+      "priceY": 20000,
+      "priceC": 10000,
+      "numberA": 2,
+      "numberY": 1,
+      "numberC": 1,
+      "paymentDay": "2022-07-23",
+      "paymentMonth": "2022-07",
+      "paymentHour": "21:30:16",
+      "id": 33
+    }
+  ]
+}
